@@ -1,0 +1,24 @@
+{
+  "name": "create-cssfactory",
+  "version": "0.0.2",
+  "description": "The recommended way to start your css factory project",
+  "bin": {
+    "create-cssfactory": "./bin/cli.js"
+  },
+  "scripts": {
+    "cssfactory": "node bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opdev1004/create-cssfactory.git"
+  },
+  "author": "Victor Chanil Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opdev1004/create-cssfactory/issues"
+  },
+  "homepage": "https://github.com/opdev1004/create-cssfactory#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^7.0.0"
+  }
+}
